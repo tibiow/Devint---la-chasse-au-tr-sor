@@ -1,0 +1,73 @@
+Cartes de vitesse:
+
+25,50,75,100,200
+
+Cartes d'attaques:                         Cartes DÈfensives(associÈes):
+
+1-RÈcif			----------->       esquive
+	Carte vitesse divisé par 2(à voir)
+2-Voile emmelÈes	----------->       Voile dÈmelÈes
+	Vitesse diminué
+3-Vent favorable	
+	Ajoute 50 noeud à ta carte vitesse 
+4-TempÍte		----------->       Eclaircies
+	Reculer
+5-Boulet de canon       ----------->       rÈparation
+	Stop
+
+
+Cartes SpÈciales:
+Coustot           annule 1
+MÈtÈorologue      annule 4
+Expert en noeud   annule 2
+Bricoleur         annule 5
+
+Récif:reef.png
+Voile emmelées: shipTorn.png
+Vent favorable : wind.png
+Tempête : storm.png
+
+Boulet de canon :canon.png
+coustot : coustot.png
+météorologue :  meteoMan.png
+Expert en noeud : noeud.png
+Bricoleur : bricoleur.png
+
+
+3 cartes « Récif »
+3 cartes « Voile emmenée »
+3 cartes « Tempéte »
+3 cartes « Boulet de canon »
+
+Les cartes de défense :
+
+6 cartes « Voile dÈmelÈes »
+6 cartes « Esquive »
+6 cartes « Vent favorable »
+6 cartes « Eclaircie »  
+6 cartes « réparation »
+
+
+
+
+
+
+6 cartes « Fin de limitation de vitesse »
+14 cartes « Feu vert »
+Elles servent à annuler les cartes attaques.
+
+Les cartes « Bottes » :
+
+1 carte As du volant
+1 carte Camion-Citerne
+1 carte Increvable
+1 carte Prioritaire
+Cartes puissantes, elles permettent de devenir invincible aux attaques correspondant. Exemple : La carte increvable permet de ne plus être attaqué sur des attaques « Crevaisons ». Chaque carte posée vous rapporte 100 kms. Autant vous dire qu’il est important d’avoir ce genre de cartes dans votre jeu !
+
+Les cartes distance :
+
+10 cartes « 25kms » (escargot)
+10 cartes « 50 kms » (canard)
+10 cartes « 75 kms » (papillon)
+12 cartes « 100 kms » (lièvre)
+4 cartes « 200 kms » (hirondelle)

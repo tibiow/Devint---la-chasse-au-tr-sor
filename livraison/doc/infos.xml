@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infos>
+  <year><![CDATA[2016]]></year>
+  <gamecategories>
+    <gamecategory><![CDATA[Stratégie]]></gamecategory>
+    <gamecategory><![CDATA[Réflexion]]></gamecategory>
+  </gamecategories>
+  <shortdescription><![CDATA[Chasse au trésor est un jeu reprenant les grands principes du jeu de société "Mille Bornes" de façon adapter à un public déficient visuel.]]></shortdescription>
+  <public><![CDATA[MV]]></public>
+  <gamestate><![CDATA[Valider pour le CD]]></gamestate>
+  <age><![CDATA[12-77]]></age>
+  <title><![CDATA[Chasse au Trésor]]></title>
+  <authors>
+    <author><![CDATA[Thibaut Terris]]></author>
+    <author><![CDATA[Thibaut Gonnin]]></author>
+    <author><![CDATA[Antoine Rabenandrasana]]></author>
+    <author><![CDATA[Huang Xiaohan]]></author>
+  </authors>
+  <notes>
+    <note />
+  </notes>
+  <gameplay />
+  <gamerules />
+</infos>
+

@@ -1,0 +1,31 @@
+Règles
+
+Rq:
+-peut être ajouter une page pour expliquer l'ecran de jeu
+-comment il reonnait le type de carte
+
+1- Histoire
+Tu es un pirate. Tu vas à la recherche d'un trésor. Tu dois y arriver avant ton adversaire.
+
+1bis-Deroulement
+A chaque tour tu poses une carte. Puis tu en pioches une. L'adversaire fait pareil.
+
+2 - Les cartes vitesses
+Les cartes vitesse te permettent d'avancer. Plus le chiffre est élevé plus tu vas vite.
+
+3- Les cartes d'attaques
+Si tu lances une carte d'attaque tu ralentis l'adversaire.
+Si l'adversaire lance une carte attaque tu ralentis.
+
+4-Les cartes défense
+Si l'adversaire te lance une carte attque , la carte de défense te permet d'annuler son attaque.
+Si tu lances une carte attaque l'adversaire peut l'annuler avec une carte de défense.
+
+5- Les cartes spéciales
+Ces cartes permettent d'annuler certaines attaques jusqu'à la fin de la partie.
+
+
+- Les touches:
+
+F4 changez taille police
+F3 changer couleur
